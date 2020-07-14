@@ -4,8 +4,9 @@
 /.project
 *.class
 *MANIFEST.MF
+/target/
 
-#01Code/AppQCMMono/src/main/resources/META-INF/persistence.xml
+#src/main/resources/META-INF/persistence.xml
 
 persistence.xml
 
